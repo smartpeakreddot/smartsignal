@@ -72,11 +72,11 @@ export default function Footer() {
           <div>
             <h4 className="mb-4 text-sm font-semibold uppercase tracking-wider text-dark-400">Contact</h4>
             <a
-              href="mailto:support@smartsignal.com"
+              href="mailto:support@smartssignal.com"
               className="flex items-center gap-2 text-sm text-dark-400 transition hover:text-brand-400"
             >
               <Mail className="h-4 w-4" />
-              support@smartsignal.com
+              support@smartssignal.com
             </a>
             <p className="mt-3 text-sm text-dark-500">Mon – Fri, 9 AM – 6 PM UTC</p>
           </div>

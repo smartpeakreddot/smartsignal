@@ -68,8 +68,8 @@ export default function ContactPage() {
                 <h3 className="font-semibold text-white">Email Support</h3>
               </div>
               <p className="text-sm text-dark-400">For general inquiries and account support.</p>
-              <a href="mailto:support@smartsignal.com" className="mt-2 block text-brand-400 hover:underline text-sm">
-                support@smartsignal.com
+              <a href="mailto:support@smartssignal.com" className="mt-2 block text-brand-400 hover:underline text-sm">
+                support@smartssignal.com
               </a>
             </div>
 

@@ -33,11 +33,11 @@ export default function PrivacyPage() {
           },
           {
             title: '6. Your Rights',
-            body: 'Depending on your location, you may have the right to access, correct, or delete your personal data. To exercise these rights, contact us at privacy@smartsignal.com.',
+            body: 'Depending on your location, you may have the right to access, correct, or delete your personal data. To exercise these rights, contact us at support@smartssignal.com.',
           },
           {
             title: '7. Contact Us',
-            body: 'If you have questions about this Privacy Policy, please contact us at privacy@smartsignal.com.',
+            body: 'If you have questions about this Privacy Policy, please contact us at support@smartssignal.com.',
           },
         ].map((s) => (
           <div key={s.title}>

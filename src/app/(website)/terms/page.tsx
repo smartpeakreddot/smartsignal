@@ -45,7 +45,7 @@ export default function TermsPage() {
           },
           {
             title: '9. Contact',
-            body: 'For questions about these Terms, contact us at legal@smartsignal.com.',
+            body: 'For questions about these Terms, contact us at support@smartssignal.com.',
           },
         ].map((s) => (
           <div key={s.title}>
